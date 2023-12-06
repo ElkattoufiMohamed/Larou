@@ -1,0 +1,17 @@
+/* SITE */
+
+Title: LAROU
+Components: NextJS, TailwindCSS
+
+/* AUTHOR */
+ ___________ ___________  _____________   ____   __
+|_   _| ___ \  ___| ___ \|  _  | ___ \ \ / /\ \ / /
+  | | | |_/ / |__ | |_/ /| | | | |_/ /\ V /  \ V / 
+  | | |    /|  __|| ___ \| | | |    /  \ /   /   \ 
+  | | | |\ \| |___| |_/ /\ \_/ / |\ \  | |  / /^\ \
+  \_/ \_| \_\____/\____/  \___/\_| \_| \_/  \/   \/
+
+Location: Athens, Greece
+GitHub: https://github.com/treboryx
+Site: https://roberto.gr
+Twitter: @treboryx
